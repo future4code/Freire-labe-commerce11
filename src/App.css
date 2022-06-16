@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://img.freepik.com/free-vector/cartoon-galaxy-background-with-planets_23-2148966504.jpg?w=1380&t=st=1655327509~exp=1655328109~hmac=9fa2d97afdba5292189cf316bd5d72d20de5fdf2a1c9f7417c94f4a628c5f0b8);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
